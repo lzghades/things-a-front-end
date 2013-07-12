@@ -1,4 +1,4 @@
-things-for-front-end
+things-a-front-end
 ====================
 
-The tech about front end.
+The new technology of front end.
